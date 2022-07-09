@@ -1,1 +1,3 @@
-# Odin-JavaScript-Project-Weather-App
+# JavaScript Project: Weather App
+
+### [Guideline](https://www.theodinproject.com/lessons/javascript-weather-app)
